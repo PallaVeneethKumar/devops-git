@@ -1,0 +1,4 @@
+this is my first repo   
+git is intresting   
+git is scm tool
+this it lightwieght
